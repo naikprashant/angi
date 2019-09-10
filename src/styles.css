@@ -1,1 +1,19 @@
-/* You can add global styles to this file, and also import other style files */
+/*
+    google font
+    headings : archivo black
+    general text : roboto
+*/
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black|Roboto&display=swap');
+/* global */
+*   {
+    margin: 0;
+    padding: 0;
+}
+body    {
+    background-color: #f5f5f5;
+}
+
+/* navbar */
+.navbar {
+    background-color: #fff;
+}
