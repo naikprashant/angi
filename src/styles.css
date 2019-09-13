@@ -12,8 +12,17 @@
 body    {
     background-color: #f5f5f5;
 }
-
+.title-text {
+    font-family: 'Archivo Black', sans-serif;
+}
+.body-text  {
+    font-family: 'Roboto', sans-serif;
+}
 /* navbar */
 .navbar {
+    font-family: 'Roboto', sans-serif;
     background-color: #fff;
+    -webkit-box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.1);
+    box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.1);
 }
