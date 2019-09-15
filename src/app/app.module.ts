@@ -3,11 +3,15 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule, routingComponents } from './app-routing.module';
 
 import { AppComponent } from './app.component';
+import { NavComponent as FrontendNav } from './template/frontend/nav/nav.component';
+import { NavComponent as BackendNav } from './template/backend/nav/nav.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    routingComponents
+    routingComponents,
+    FrontendNav,
+    BackendNav
   ],
   imports: [
     BrowserModule,
