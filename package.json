@@ -24,7 +24,7 @@
     "express": "^4.17.1",
     "jquery": "^3.4.1",
     "jquery-confirm": "^3.3.4",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "normalize.css": "^8.0.1",
     "popper.js": "^1.15.0",
     "rxjs": "~6.4.0",
