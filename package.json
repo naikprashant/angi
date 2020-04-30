@@ -22,7 +22,7 @@
     "body-parser": "^1.19.0",
     "bootstrap": "^4.3.1",
     "express": "^4.17.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-confirm": "^3.3.4",
     "mongoose": "^5.7.1",
     "normalize.css": "^8.0.1",
